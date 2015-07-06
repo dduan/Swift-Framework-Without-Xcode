@@ -6,6 +6,8 @@ This project demostrates one way to achieve that.
 (It's really just some combinations of commandline options for `swiftc` in
 a Makefile.)
 
+You can read more about it in this [blog post](http://dduan.net/post/2015/07/dynamic-swift-framework-without-xcode/)
+
 ## Usage
 
 1. Under the *Frameworks* folder, create a folder named after the "framework",
